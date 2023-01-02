@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="p2p-crypto",
-    version="0.0.1.dev1",
+    version="0.0.1.dev2",
     author="exsplash.it",
     description="Python3 library for interacting with P2P trading on different cryptoexchanges",
     long_description="Python3 library for interacting with P2P trading on different cryptoexchanges",
